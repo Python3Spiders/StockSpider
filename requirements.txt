@@ -1,0 +1,4 @@
+requests==2.22.0
+lxml==4.2.3
+pymongo==3.7.1
+PyQt5==5.13.1
